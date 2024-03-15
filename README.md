@@ -8,6 +8,12 @@ Se instala el modulo axios
 npm install axios
 ```
 
+Se instala bootstrap
+```bash
+npm install react-bootstrap bootstrap
+```
+
+
 
 Al momento de crear proyectos react borrar los siguientes archivos
 ```bash
